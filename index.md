@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio
 
-You can use the [editor on GitHub](https://github.com/gartman222/gartman222.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Ever wish you could get affordable and quality pixel art from some random you've never heard of?  
+Well my friend, now you can!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gartman222/gartman222.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# PRICING 
+$10 USD gets you a 64x64 full body sprite (Like the many rabbits on display) or a 92x92 headshot, perfect for an avatar!
+For full body sprites, there's also the option of getting it animated, which will cost an extra 1 dollar per frame!  (Depending on the complexity, this price can vary.  You will be informed of any price change before hand.)
+All payment transactions will be using paypal!  I'm sure other sites are trustworthy but that's the one I already have and know how to use!
+Thanks for taking a look at these *sweet sweet deals* and have an excellent rest of your day.
